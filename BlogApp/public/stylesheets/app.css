@@ -1,0 +1,11 @@
+i.icon{
+    font-size: 2em; 
+}
+.container.main{
+    background: #005AA7;  
+    background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  
+    background: linear-gradient(to right, #FFFDE4, #005AA7); 
+    }
+.header.huge{
+    color:slateblue;
+}
